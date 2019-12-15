@@ -1,8 +1,9 @@
 ## Text Generation
-With wide variety of applications in Time Series & Deep Learning LSTM are also helpful for *Natural Language Processing*
+With wide variety of applications in Time Series & Deep Learning LSTM are also helpful for *Natural Language Processing*.
 
 ## Long Short Term Memory Network for NLP
 ![](http://www.shivambansal.com/blog/text-lstm/2.png)
+<br>
 *Unlike regular feed forward neural networks activation output are only propogated in one direction,<br> 
 but activation output in RNN & LSTM propogate in both direction. <br>
 Which allows neurons to pass feedback and give ability to remember what have been learned so far.<br>
