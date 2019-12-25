@@ -2,8 +2,8 @@ import re
 import nltk
 from nltk.corpus import stopwords
 from gensim.models import Word2Vec
-import main 
-from main import *
+import Simple-Web-Scrapping
+from Simple-Web-Scrapping import *
 
 def preprocess(paragraph):
     sentences = nltk.sent_tokenize(paragraph) # tokenize sent
