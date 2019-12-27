@@ -24,7 +24,7 @@ The hidden layer contains the number of dimensions in which we want to represent
  - Sentiment Analysis
  
 ## Reference
-https://www.pydoc.io/pypi/gensim-3.2.0/autoapi/models/word2vec/index.html
+https://www.pydoc.io/pypi/gensim-3.2.0/autoapi/models/word2vec/index.html<br>
 https://github.com/prasadpatil99/Web-Scrapping/blob/master/Simple-Web-Scrapping.py
 ## Author 
  - Prasad Patil
