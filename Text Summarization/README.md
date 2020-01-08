@@ -1,5 +1,5 @@
 ## Text Summarization
-> *Text Summarization is important task of natural language processing that deals with extracting useful text that can summarize from huge chunk text preserving its meaning irrespective of size*.<br>
+> *Text Summarization is important task of natural language processing that deals with extracting useful text that can summarize from huge chunk text by preserving original meaning, irrespective of its size*.<br>
 
 Text Sumarization is of two types :<br>
 **Extractive Summarization** - *Here important sentences are identified from original text and only that much are been extracted. We will use this approach in this repository.*<br>
