@@ -62,6 +62,6 @@ def prediction(pred_text, next_words, max_sequence_len):
     	pred_text += " " + output
     return pred_text
 
-# Predict output from we..
+# Predict output from I..
 print(prediction("I", 3 , max_sequence_len))
 
